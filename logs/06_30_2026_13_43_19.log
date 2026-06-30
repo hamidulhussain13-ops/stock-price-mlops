@@ -1,0 +1,8 @@
+[ 2026-06-30 13:43:20,824 ] 93 root - INFO - Data Transformation Started
+[ 2026-06-30 13:43:20,827 ] 75 root - INFO - Creating preprocessing object
+[ 2026-06-30 13:43:20,862 ] 117 root - INFO - Preprocessor Saved Successfully
+[ 2026-06-30 13:43:20,862 ] 35 root - INFO - Model training started
+[ 2026-06-30 13:43:21,079 ] 53 root - INFO - LinearRegression R2 Score: 0.8527944039964921
+[ 2026-06-30 13:43:22,107 ] 53 root - INFO - RandomForest R2 Score: 0.8907742550708256
+[ 2026-06-30 13:43:22,108 ] 62 root - INFO - Best Model selected with R2 Score: 0.8907742550708256
+[ 2026-06-30 13:43:22,113 ] 70 root - INFO - Model saved at artifacts\model.pkl

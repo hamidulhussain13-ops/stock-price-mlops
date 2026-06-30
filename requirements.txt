@@ -1,0 +1,21 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+xgboost
+catboost
+dill
+joblib
+
+flask
+fastapi
+uvicorn
+
+mlflow
+
+python-dotenv
+
+pytest
+
+-e .
